@@ -29,19 +29,21 @@ termux-setup-storage
 ```
 ## 📥 Instalasi & Penggunaan
 Cukup salin dan tempel baris perintah berikut di terminal Termux kamu:
+1. Clone repository ini
 ```bash
-# Clone repository ini
-git clone [https://github.com/USERNAME_KAMU/Termux-Fastboot-Toolkit](https://github.com/USERNAME_KAMU/Termux-Fastboot-Toolkit)
-
-# Masuk ke direktori
+git clone 
+```
+2. Masuk ke direktori
+```bash
 cd Termux-Fastboot-Toolkit
-
-# Jalankan installer otomatis
+```
+3. Jalankan installer otomatis
+```bash
 bash install.sh
-
-# Jalankan toolkit
+```
+4. Jalankan toolkit
+```bash
 python fastboot.py
-
 ```
 ## 🛠️ Struktur Menu
  1. **Flash Menu:** Pilih partisi target, lalu pilih file .img dari internal storage kamu.
@@ -54,14 +56,4 @@ python fastboot.py
 ## 🤝 Kontribusi
 Punya ide untuk fitur baru atau menemukan bug? Silakan buka **Issue** atau kirim **Pull Request**. Kontribusi dalam bentuk apa pun sangat dihargai!
 **Dibuat dengan ❤️ untuk komunitas oprek Android Indonesia.**
-```
-
----
-
-### Tips Tambahan:
-1.  Ganti `USERNAME_KAMU` dengan username GitHub asli kamu agar link-nya tidak rusak.
-2.  Jika kamu ingin menambahkan screenshot tampilan script-nya, kamu bisa ambil screenshot di Termux, lalu upload ke folder `img/` di GitHub dan panggil di README menggunakan kode `![Screenshot](img/screenshot.png)`.
-
-Ada lagi yang ingin kamu tambahkan ke toolkit ini?
-
 ```
