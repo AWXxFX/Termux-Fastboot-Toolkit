@@ -56,4 +56,3 @@ python fastboot.py
 ## 🤝 Kontribusi
 Punya ide untuk fitur baru atau menemukan bug? Silakan buka **Issue** atau kirim **Pull Request**. Kontribusi dalam bentuk apa pun sangat dihargai!
 **Dibuat dengan ❤️ untuk komunitas oprek Android Indonesia.**
-```
