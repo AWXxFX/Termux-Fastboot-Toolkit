@@ -31,7 +31,7 @@ termux-setup-storage
 Cukup salin dan tempel baris perintah berikut di terminal Termux kamu:
 1. Clone repository ini
 ```bash
-git clone git clone https://github.com/AWxXFX/Termux-Fastboot-Toolkit.git
+git clone https://github.com/AWxXFX/Termux-Fastboot-Toolkit.git
 ```
 2. Masuk ke direktori
 ```bash
