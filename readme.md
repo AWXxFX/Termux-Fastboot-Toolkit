@@ -9,7 +9,7 @@ Toolkit berbasis Python yang dirancang khusus untuk pengguna **Termux** guna mem
 ---
 
 ## 📸 Preview
-![Tampilan Toolkit](image/screenshot.png)
+![Tampilan Toolkit](image/screenshot1.png)
 
 ---
 
