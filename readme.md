@@ -9,14 +9,7 @@ Toolkit berbasis Python yang dirancang khusus untuk pengguna **Termux** guna mem
 ---
 
 ## 📸 Preview
-
-**EAAAAAA AWOWKWKKWKWKKWKWKKWKWK**
-
-**😭🤣😭🤣🤣😭🤣😭🤣😭🤣😭🤣🤣😭**
-
-**SE-SE SENGGOL NIH BOS... BERNYANYI² 🤙🤙🎵🎶**
 ![Tampilan Toolkit](image/screenshot.png)
-**BERNYANYI BERNYANYI**
 
 ---
 
